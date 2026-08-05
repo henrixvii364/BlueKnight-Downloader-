@@ -9,7 +9,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)](#system-requirements)
 [![Platform](https://img.shields.io/badge/Platform-64--bit-blue)](#system-requirements)
 [![Portable](https://img.shields.io/badge/Build-Portable-success)](#portable-usage)
-[![Version](https://img.shields.io/badge/Version-6.1-purple)](#whats-new-in-v61)
+[![Version](https://img.shields.io/badge/Version-6.1-purple)](#whats-new-in-v1.0)
 
 </div>
 
